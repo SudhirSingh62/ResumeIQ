@@ -1,6 +1,5 @@
 # 🧠 ResumeIQ – AI-Powered Resume Analyzer
 
-[Live Link 🔗](https://resume-iq-rho.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [GitHub](https://github.com/SudhirSingh62/ResumeIQ)
 
 ## 💼 AI-Powered Resume Analyzer – Smarter Hiring Starts Here
 
